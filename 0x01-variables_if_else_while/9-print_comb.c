@@ -1,3 +1,8 @@
+/*
+ * File: 9-print_comb.c
+ * Auth: Brennan D Baraban
+ */
+
 #include <stdio.h>
 
 /**
@@ -5,7 +10,6 @@
  *
  * Return: Always 0.
  */
-
 int main(void)
 {
 	int num;
@@ -23,3 +27,4 @@ int main(void)
 	putchar('\n');
 
 	return (0);
+}
